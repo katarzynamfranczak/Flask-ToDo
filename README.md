@@ -17,15 +17,13 @@ It allows users to add, edit, and delete tasks with a clean, minimal interface.
 
 ## 📂 Project Structure
 
-MY_FLASK_APP/ 
-├── app.py 
-├── requirements.txt 
-├── README.md 
-├── templates/ # HTML templates 
-│ ├── base.html 
-│ ├── index.html 
-│ └── edit.html 
-└── static/ 
-└── styles.css # Compiled CSS from SCSS
-
-
+MY_FLASK_APP/\
+├── app.py\
+├── requirements.txt\
+├── README.md\
+├── templates/ # HTML templates\
+│  ├── base.html\
+│  ├── index.html\
+│  └── edit.html\
+└── static/\
+└── styles.css # Compiled CSS from SCSS\
