@@ -9,6 +9,5 @@ instance/
 .coverage
 .vscode/
 
-# Compiled assets
 static/*.css.map
 .sass-cache/
